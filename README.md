@@ -10,13 +10,13 @@ GRequire/Siteres is a simple module that allows you to use requirejs in a synchr
 ## Installation
 
 ```bash
-npm install grequire
+npm install grequirejs
 ```
 
 ## Usage
 
 ```javascript
-var grequire = require('grequire');
+var grequire = require('grequirejs');
 const [module1,module2] = await grequire(['module1', 'module2']);
 const module3 = await grequire('module3');
 ```
@@ -30,12 +30,12 @@ GRequire 是一个简单的模块，允许您以同步的方式使用 requirejs�
 
 ## 安装
 ```bash
-npm install grequire
+npm install grequirejs
 ```
 ## 用法
 javascript
 ```
-var grequire = require('grequire');
+var grequire = require('grequirejs');
 const [module1,module2] = await grequire(['module1', 'module2']);
 const module3 = await grequire('module3');
 ```
