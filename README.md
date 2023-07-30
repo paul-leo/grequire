@@ -1,8 +1,8 @@
-# GRequire
+# GRequire/Siteres
 
 ## Description
 
-GRequire is a simple module that allows you to use requirejs in a synchronous way.
+GRequire/Siteres is a simple module that allows you to use requirejs in a synchronous way.
 
 ## Features
 * auto load requirejs by cdn

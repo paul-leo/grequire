@@ -1,0 +1,25 @@
+{
+    "author": {
+        "name": "pengzai"
+    },
+    "dependencies": {},
+    "description": "GRequire is a simple module that allows you to use requirejs in a synchronous way.",
+    "keywords": [
+        "promise",
+        "requirejs",
+        "sync",
+        "synchronous",
+        "async"
+    ],
+    "license": "ISC",
+    "main": "index.js",
+    "name": "siteres",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pengzai-dev"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "version": "0.0.8"
+}
